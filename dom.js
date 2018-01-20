@@ -41,4 +41,4 @@ var document = [
     ]
   }
 ]
-console.log(document[0].children[0].children.value)
+console.log(document[0].children[0].children[1].value)
