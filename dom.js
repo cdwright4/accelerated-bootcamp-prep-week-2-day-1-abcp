@@ -41,4 +41,4 @@ var document = [
     ]
   }
 ]
-console.log(document[0])
+console.log(document[0][1][1])
