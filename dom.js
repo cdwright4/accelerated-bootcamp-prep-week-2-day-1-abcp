@@ -41,4 +41,4 @@ var document = [
     ]
   }
 ]
-console.log(document[0].children[0].tagName)
+console.log(document[0].children[0].children)
